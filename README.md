@@ -21,5 +21,3 @@ author_profile: true
 
 ### Свяжитесь со мной
 - GitHub: [pvkosterenko](https://github.com/pvkosterenko)
-- Telegram: @ваш_ник
-- Email: ваша@почта.ru
