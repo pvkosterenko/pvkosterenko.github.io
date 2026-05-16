@@ -3,7 +3,7 @@ title: "Курс «Введение в Linux»"
 excerpt: "Сертификат Stepik, 2026."
 collection: portfolio
 permalink: /portfolio/linux-course
-date: 2026-05-17
+date: 2026-05-16
 header:
   teaser: /images/linux_cert.png
 ---
